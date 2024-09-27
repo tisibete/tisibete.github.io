@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tisibete.github.io/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/app/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/assets/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/css/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/data/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/includes/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/item/sitemap.tisibete.gz
+Sitemap: https://tisibete.github.io/src/sitemap.tisibete.gz
